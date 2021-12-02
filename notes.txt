@@ -4,3 +4,6 @@ https://discourse.julialang.org/t/a-proper-introduction-on-how-to-update-julia-s
 Using Julia in VSCode
 https://www.matecdev.com/posts/julia-introduction-vscode.html
 https://www.julia-vscode.org/docs/dev/userguide/runningcode/
+
+Using Julia in Jupyter
+https://towardsdatascience.com/how-to-best-use-julia-with-jupyter-82678a482677
