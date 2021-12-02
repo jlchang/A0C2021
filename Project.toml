@@ -1,0 +1,4 @@
+name = "AoC2021"
+uuid = "7692ca48-0b6e-4335-aeba-d2d228db302f"
+authors = ["jlchang <jlchang@broadinstitute.org>"]
+version = "0.1.0"

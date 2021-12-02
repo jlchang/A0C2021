@@ -1,0 +1,6 @@
+How to update Julia itself
+https://discourse.julialang.org/t/a-proper-introduction-on-how-to-update-julia-somewhere-accessible/28166
+
+Using Julia in VSCode
+https://www.matecdev.com/posts/julia-introduction-vscode.html
+https://www.julia-vscode.org/docs/dev/userguide/runningcode/
